@@ -1,0 +1,23 @@
+{
+  "name": "is_sparks",
+  "version": "1.0.0",
+  "description": "given string is sparks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sparks-11/is_sparks.git"
+  },
+  "keywords": [
+    "sparks",
+    "string"
+  ],
+  "author": "sparks",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sparks-11/is_sparks/issues"
+  },
+  "homepage": "https://github.com/sparks-11/is_sparks#readme"
+}
